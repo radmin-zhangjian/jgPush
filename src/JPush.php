@@ -5,7 +5,7 @@ namespace zhangjian\Push;
 /**
  * JPush
  *
- * @author Yanlong Ma
+ * @author zhangjian Yu
  */
 class JPush
 {
