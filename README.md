@@ -7,7 +7,7 @@ Third party message push
 ## Install
 
 ```
-$ composer require yanlongma/push
+$ composer require yuqinglan/jg-push
 ```
 
 ## Demo
